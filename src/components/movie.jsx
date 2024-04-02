@@ -12,7 +12,7 @@ import ErrorBoundary from "./ErrorBoundary";
 
 import MovieCard from "./movieCard";
 
-const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=ecb968fa";
+const API_URL = "https://www.omdbapi.com/?i=tt3896198&apikey=ecb968fa";
 
 
 export default function Movie() {
