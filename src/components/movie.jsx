@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import filmsIcon from "../assets/films2go.svg";
-import filmsLogo from "../assets/filmsLogo.svg";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "react-bootstrap/Navbar";
 import Container from "react-bootstrap/Container";
